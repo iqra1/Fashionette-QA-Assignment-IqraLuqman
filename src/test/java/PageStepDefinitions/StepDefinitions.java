@@ -200,12 +200,11 @@ public class StepDefinitions {
             log.info("discount amount: " + discount);
             String subTotal= addToCart.cartSubtotal().substring(1,7);
             log.info("Subtotal price: " + subTotal);
-            int discountAmount= parseInt(discount);
-            int actualAmount= parseInt(subTotal);
-            int discounted= actualAmount - discountAmount;
-            log.info(discounted);
-            String totalAfterDiscount = String.valueOf(discounted);
-            log.info("Total price after discount: " + "£" +totalAfterDiscount);
+            double discountAmount= parseInt(discount);
+            double actualAmount= Double.parseDouble(subTotal);
+            double discounted= actualAmount - discountAmount;
+            String totalAfterDiscount = "£"+ String.valueOf(discounted) +"0";
+            log.info("Total price after discount: " + totalAfterDiscount);
             String total=addToCart.cartTotal();
             Assert.assertEquals(totalAfterDiscount,total);
     }

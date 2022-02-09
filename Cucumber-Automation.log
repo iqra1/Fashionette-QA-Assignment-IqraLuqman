@@ -1,13 +1,47 @@
-2022-02-10 02:15:15,447 INFO P.StepDefinitions [main] Browser is googleChrome 
-2022-02-10 02:15:26,507 INFO P.StepDefinitions [main] User go to: https://www.fashionette.co.uk 
-2022-02-10 02:15:27,466 INFO P.StepDefinitions [main] User click on login icon 
-2022-02-10 02:15:29,339 INFO P.StepDefinitions [main] User enter email address: QA@fashionette.de 
-2022-02-10 02:15:29,721 INFO P.StepDefinitions [main] User enter password: !8Ntr*BM@!#G3VH 
-2022-02-10 02:15:31,627 INFO P.StepDefinitions [main] User click on login button  
-2022-02-10 02:15:31,816 INFO P.StepDefinitions [main] User click on handbags from menu  
-2022-02-10 02:15:38,070 INFO P.StepDefinitions [main] User choose bag 
-2022-02-10 02:15:39,300 INFO P.StepDefinitions [main] User choose color 
-2022-02-10 02:15:40,699 INFO P.StepDefinitions [main] User add item to the cart 
-2022-02-10 02:15:41,342 INFO P.StepDefinitions [main] User go to cart 
-2022-02-10 02:15:45,409 INFO P.StepDefinitions [main] price of the bag is: £643.90 
-2022-02-10 02:15:45,520 INFO P.StepDefinitions [main] price of the bag displaying on cart: £643.90 
+2022-02-10 03:39:48,627 INFO P.StepDefinitions [main] Browser is googleChrome 
+2022-02-10 03:40:00,744 INFO P.StepDefinitions [main] User go to: https://www.fashionette.co.uk 
+2022-02-10 03:40:01,753 INFO P.StepDefinitions [main] User click on login icon 
+2022-02-10 03:40:03,734 INFO P.StepDefinitions [main] User enter email address: QA@fashionette.de 
+2022-02-10 03:40:03,972 INFO P.StepDefinitions [main] User enter password: !8Ntr*BM@!#G3VH 
+2022-02-10 03:40:05,981 INFO P.StepDefinitions [main] User click on login button  
+2022-02-10 03:40:06,185 INFO P.StepDefinitions [main] User click on handbags from menu  
+2022-02-10 03:40:14,360 INFO P.StepDefinitions [main] User choose bag 
+2022-02-10 03:40:15,628 INFO P.StepDefinitions [main] User choose color 
+2022-02-10 03:40:18,987 INFO P.StepDefinitions [main] User add item to the cart 
+2022-02-10 03:40:19,225 INFO P.StepDefinitions [main] User go to cart 
+2022-02-10 03:40:23,398 INFO P.StepDefinitions [main] price of the bag is: £643.90 
+2022-02-10 03:40:23,462 INFO P.StepDefinitions [main] price of the bag displaying on cart: £643.90 
+2022-02-10 03:40:26,284 INFO P.StepDefinitions [main] Browser is googleChrome 
+2022-02-10 03:40:37,216 INFO P.StepDefinitions [main] User go to: https://www.fashionette.co.uk 
+2022-02-10 03:40:38,044 INFO P.StepDefinitions [main] User click on login icon 
+2022-02-10 03:40:39,544 INFO P.StepDefinitions [main] User enter email address: QA@fashionette.de 
+2022-02-10 03:40:40,488 INFO P.StepDefinitions [main] User enter password: !8Ntr*BM@!#G3VH 
+2022-02-10 03:40:42,357 INFO P.StepDefinitions [main] User click on login button  
+2022-02-10 03:40:42,536 INFO P.StepDefinitions [main] User click on handbags from menu  
+2022-02-10 03:40:48,314 INFO P.StepDefinitions [main] User choose bag 
+2022-02-10 03:40:53,606 INFO P.StepDefinitions [main] User choose color 
+2022-02-10 03:40:54,860 INFO P.StepDefinitions [main] User add item to the cart 
+2022-02-10 03:40:55,028 INFO P.StepDefinitions [main] User go to cart 
+2022-02-10 03:40:56,527 INFO P.StepDefinitions [main] User click on voucher link 
+2022-02-10 03:40:56,705 INFO P.StepDefinitions [main] User enter voucher code 
+2022-02-10 03:40:59,451 INFO P.StepDefinitions [main] User click on redeem voucher button 
+2022-02-10 03:41:00,083 INFO P.StepDefinitions [main] discount amount: 2 
+2022-02-10 03:41:00,127 INFO P.StepDefinitions [main] Subtotal price: 643.90 
+2022-02-10 03:41:00,129 INFO P.StepDefinitions [main] Total price after discount: ££641.90 
+2022-02-10 03:41:02,759 INFO P.StepDefinitions [main] Browser is googleChrome 
+2022-02-10 03:41:14,688 INFO P.StepDefinitions [main] User go to: https://www.fashionette.co.uk 
+2022-02-10 03:41:15,753 INFO P.StepDefinitions [main] User click on login icon 
+2022-02-10 03:41:17,569 INFO P.StepDefinitions [main] User enter email address: QA@fashionette.de 
+2022-02-10 03:41:18,396 INFO P.StepDefinitions [main] User enter password: !8Ntr*BM@!#G3VH 
+2022-02-10 03:41:20,379 INFO P.StepDefinitions [main] User click on login button  
+2022-02-10 03:41:22,501 INFO P.StepDefinitions [main] User go to personal details 
+2022-02-10 03:41:23,321 INFO P.StepDefinitions [main] User click on edit button 
+2022-02-10 03:41:23,748 INFO P.StepDefinitions [main] User click on Mrs salutation 
+2022-02-10 03:41:23,964 INFO P.StepDefinitions [main] User update his Firstname: Iqra 
+2022-02-10 03:41:24,177 INFO P.StepDefinitions [main] User update his Surname: Luqman 
+2022-02-10 03:41:24,307 INFO P.StepDefinitions [main] User saved changes 
+2022-02-10 03:41:26,380 INFO P.StepDefinitions [main] details updated: Mrs Iqra Luqman
+28.06.1984
+QA@fashionette.de
+123467890
+edit 
