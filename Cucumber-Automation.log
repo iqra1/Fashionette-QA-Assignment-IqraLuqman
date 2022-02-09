@@ -1,0 +1,13 @@
+2022-02-10 02:15:15,447 INFO P.StepDefinitions [main] Browser is googleChrome 
+2022-02-10 02:15:26,507 INFO P.StepDefinitions [main] User go to: https://www.fashionette.co.uk 
+2022-02-10 02:15:27,466 INFO P.StepDefinitions [main] User click on login icon 
+2022-02-10 02:15:29,339 INFO P.StepDefinitions [main] User enter email address: QA@fashionette.de 
+2022-02-10 02:15:29,721 INFO P.StepDefinitions [main] User enter password: !8Ntr*BM@!#G3VH 
+2022-02-10 02:15:31,627 INFO P.StepDefinitions [main] User click on login button  
+2022-02-10 02:15:31,816 INFO P.StepDefinitions [main] User click on handbags from menu  
+2022-02-10 02:15:38,070 INFO P.StepDefinitions [main] User choose bag 
+2022-02-10 02:15:39,300 INFO P.StepDefinitions [main] User choose color 
+2022-02-10 02:15:40,699 INFO P.StepDefinitions [main] User add item to the cart 
+2022-02-10 02:15:41,342 INFO P.StepDefinitions [main] User go to cart 
+2022-02-10 02:15:45,409 INFO P.StepDefinitions [main] price of the bag is: £643.90 
+2022-02-10 02:15:45,520 INFO P.StepDefinitions [main] price of the bag displaying on cart: £643.90 
