@@ -20,7 +20,6 @@ URL: https://www.fashionette.co.uk/
 
 ## Instructions to run the code:
 
-### Method#1
 - Open the project in IntelliJ
 - Go to terminal windo of IDE and run command "mvn install" OR Open command line terminal window run same command
 - Go to the directory where your project exist
